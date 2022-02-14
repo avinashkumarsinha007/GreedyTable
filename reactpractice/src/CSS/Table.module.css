@@ -1,0 +1,47 @@
+.icon{
+    margin-left: 15px;
+}
+
+.button{
+    background-color: blue;
+    border: 1px solid silver;
+    margin-right: 2px;
+    color:white;
+    padding: 3px 6px;
+    border-radius: 3px;
+}
+
+.button:hover{
+    background-color: white;
+    color: blue;
+}
+
+.iconBox{
+    background-color: rgb(1, 43, 228);
+    padding: 5px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+    color: white;
+}
+
+.iconBox:hover{
+    background-color: white;
+    color: blue;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.header{
+    font-weight: 600;
+    color: grey;
+    cursor: pointer;
+}
+
+.filterIcon{
+    color: grey;
+    cursor: pointer;
+}
+
